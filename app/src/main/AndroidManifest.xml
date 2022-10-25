@@ -15,6 +15,12 @@
         android:theme="@style/Theme.MyContact"
         tools:targetApi="31">
         <activity
+            android:name=".HomePhone"
+            android:exported="false" />
+        <activity
+            android:name=".DetailUserPhone"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

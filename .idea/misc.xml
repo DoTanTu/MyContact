@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MyContact/app/src/main/res/drawable/boder_button.xml" value="0.2585" />
+        <entry key="..\:/MyContact/app/src/main/res/drawable/boder_khoi.xml" value="0.218" />
+        <entry key="..\:/MyContact/app/src/main/res/drawable/call_back_Blue.xml" value="0.2525" />
         <entry key="..\:/MyContact/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/MyContact/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/MyContact/app/src/main/res/layout/detail_item.xml" value="0.223731884057971" />
+        <entry key="..\:/MyContact/app/src/main/res/layout/list_item.xml" value="0.2" />
+        <entry key="..\:/MyContact/app/src/main/res/layout/list_menu_item.xml" value="0.152" />
       </map>
     </option>
   </component>
